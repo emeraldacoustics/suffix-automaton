@@ -1,0 +1,2 @@
+# suffix-automaton
+ Suffix Automaton
